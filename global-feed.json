@@ -1,0 +1,11 @@
+{
+    "address": {
+        "street": "1120 SE Madison St",
+        "streetNumber": "1120",
+        "streetName": "SE Madison St",
+        "city": "Portland",
+        "state": "OR",
+        "zipCode": "97214",
+        "fullAddress": "1120 SE Madison St, Portland, OR 97214"
+    }
+}
